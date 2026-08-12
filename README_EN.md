@@ -1,4 +1,4 @@
-<h1 align="center">LaTeX-CN</h1>
+<h1 align="center">LaTeX-AI</h1>
 
 <table align="center">
   <tr>
