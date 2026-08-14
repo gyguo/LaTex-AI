@@ -84,7 +84,7 @@
 ### 4.2 安装及配置教程
 
 - 安装配置 VS Code + TeX Live + LaTeX Workshop。
-- 从官网下载 Git 安装包（https://git-scm.com/download），然后点击安装。
+- 从官网下载 Git 安装包 https://git-scm.com/download 然后点击安装。
 - 在 Overleaf 中新建 project，将文件同步到 GitHub 上面（新用户需要会员）。
 - 在 VS Code 左侧打开在 GitHub 中托管的仓库文件夹，用 GitHub 账号登录 VS Code，从 GitHub 克隆到本地。
 - 本地修改的文件可以提交到 GitHub 上面，Overleaf 随时可从 GitHub 上同步。
